@@ -22,7 +22,7 @@ We demonstrate the effectiveness of VerbAtlas in the task of dependency-based
 Semantic Role Labeling and show how its integration into a high-performance system 
 leads to improvements on both the in-domain and out-of-domain test sets of CoNLL-2009.
   
-#### Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations (Marco Maru, Federico Scozzafava, Federico Martelli and Roberto Navigli)
+#### SyntagNet: Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations (Marco Maru, Federico Scozzafava, Federico Martelli and Roberto Navigli)
 Current research in knowledge-based Word Sense Disambiguation (WSD) indicates that performances depend 
 heavily on the Lexical Knowledge Base (LKB) employed. While LKBs tend to focus on the paradigmatic 
 dimension of language, such resources fall short in respect of syntagmatic relations, which are also
