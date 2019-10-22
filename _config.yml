@@ -7,15 +7,15 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Reading Group @ LCL
+tagline:          'Activity Blog of LCL group at La Sapienza University of Rome'
+description:      'The group is focused on NLP and is specifically interested to Semantic Parsing, Word Sense Disambiguation and related topics. You can find out more about LCL at lcl.uniroma1.it'
 url:              http://lclrg.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Tommaso Pasini'
+  url:            https://twitter.com/pasini_t
 
 paginate:         5
 
