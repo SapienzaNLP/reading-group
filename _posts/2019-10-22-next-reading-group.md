@@ -3,11 +3,11 @@ layout: post
 title: Next Reading Group
 ---
 
-**When**:  Thursday 24 of October 2019 at 16:30.
+**When**:  Thursday 25 of October 2019 at 11:00.
 
 **Where**: Regina Elena, Building F last floor.
 
-**Topic**: Dry run of VerbAtlas and Syntagnet presentations for EMNLP 2019.
+**Topic**: Dry run of VerbAtlas and SyntagNet presentations for EMNLP 2019.
    
 ### Abstracts
 #### VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling (Andrea Di Fabio, Simone Conia and Roberto Navigli)
