@@ -7,7 +7,7 @@ title: Next Reading Group
 
 **Where**: Regina Elena, Building F last floor.
 
-**Topic**: Dry run of VerbAtlas and SyntagNet presentations for EMNLP 2019.
+**Topic**: Dry run of VerbAtlas presentation for EMNLP 2019.
    
 ### Abstracts
 #### VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling (Andrea Di Fabio, Simone Conia and Roberto Navigli)
@@ -22,15 +22,4 @@ We demonstrate the effectiveness of VerbAtlas in the task of dependency-based
 Semantic Role Labeling and show how its integration into a high-performance system 
 leads to improvements on both the in-domain and out-of-domain test sets of CoNLL-2009.
   
-#### SyntagNet: Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations (Marco Maru, Federico Scozzafava, Federico Martelli and Roberto Navigli)
-Current research in knowledge-based Word Sense Disambiguation (WSD) indicates that performances depend 
-heavily on the Lexical Knowledge Base (LKB) employed. While LKBs tend to focus on the paradigmatic 
-dimension of language, such resources fall short in respect of syntagmatic relations, which are also
-crucial for sense disambiguation due to interconnecting co-occurring words. 
-To address this deficiency, we present SyntagNet, a manually-curated large-scale lexical-semantic 
-combination database which associates pairs of concepts with pairs of co-occurring words. 
-By capturing sense distinctions evoked by syntagmatic relations, SyntagNet enables knowledge-based 
-WSD systems to establish a new state of the art which challenges the hitherto unrivaled performances 
-attained by supervised approaches.
-
 See you there!
