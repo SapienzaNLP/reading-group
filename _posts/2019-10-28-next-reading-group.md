@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VerbAtlas dry-run
+title: Next Reading Group
 ---
 
 **When**:  Wedensday 30 of October 2019 at 10:00.

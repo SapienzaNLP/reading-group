@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Next Reading Group
+title: VerbAtlas Dry-Run
 ---
 
 **When**:  Thursday 25 of October 2019 at 11:00.
 
 **Where**: Regina Elena, Building F last floor.
 
-**Topic**: Dry run of VerbAtlas presentation for EMNLP 2019.
+**Topic**: Dry-Run of VerbAtlas presentation for EMNLP 2019.
    
 ### Abstracts
 #### VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling (Andrea Di Fabio, Simone Conia and Roberto Navigli)
