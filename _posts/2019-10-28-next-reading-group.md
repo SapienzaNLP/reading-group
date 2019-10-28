@@ -7,7 +7,7 @@ title: Next Reading Group
 
 **Where**: Regina Elena, Building F last floor.
 
-**Topic**: Dry run of SyntagNet poster for EMNLP 2019.
+**Topic**: Dry-Run of SyntagNet poster for EMNLP 2019.
    
 ### Abstract
   
