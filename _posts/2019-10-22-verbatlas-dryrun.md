@@ -21,5 +21,7 @@ about implicit, shadow, and default arguments.
 We demonstrate the effectiveness of VerbAtlas in the task of dependency-based 
 Semantic Role Labeling and show how its integration into a high-performance system 
 leads to improvements on both the in-domain and out-of-domain test sets of CoNLL-2009.
-  
-See you there!
+ 
+ 
+## Downloads
+[Slides](material/reading_group_2_verbatlas.pdf)
