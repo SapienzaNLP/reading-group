@@ -5,7 +5,7 @@ title: RG#1
 
 **Topic**: Showcase of 4 papers selected among those published in ACL and EMNLP 2019.
 
-**Presenter**: [Tommaso Pasini](http://wwwusers.di.uniroma1.it/~pasini)
+**Speaker**: [Tommaso Pasini](http://wwwusers.di.uniroma1.it/~pasini)
    
 ## Papers
 - [Towards Language Agnostic Universal Representations.](https://www.aclweb.org/anthology/P19-1395/) Armen Aghajanyan, Xia Song, Saurabh Tiwary. ACL 2019.

@@ -8,7 +8,8 @@ title: VerbAtlas Dry-Run
 **Where**: Regina Elena, Building F last floor.
 
 **Topic**: Dry-Run of VerbAtlas presentation for EMNLP 2019.
-   
+ 
+**Speaker**: Andrea Di Fabio and Simone Conia.
 ### Abstracts
 #### VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling (Andrea Di Fabio, Simone Conia and Roberto Navigli)
 We present VerbAtlas, a new, hand-crafted lexical-semantic resource whose goal 
