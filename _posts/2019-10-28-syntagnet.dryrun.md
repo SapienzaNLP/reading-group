@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SyntagNet dry-run
+title: SyntagNet Dry-Run
 ---
 
 **When**:  Wedensday 30 of October 2019 at 10:00.
