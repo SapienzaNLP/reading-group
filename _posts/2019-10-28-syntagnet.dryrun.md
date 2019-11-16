@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Reading Group
+title: SyntagNet dry-run
 ---
 
 **When**:  Wedensday 30 of October 2019 at 10:00.
