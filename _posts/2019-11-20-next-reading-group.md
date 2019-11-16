@@ -7,7 +7,7 @@ title: Next Reading Group
 
 **Where**: Regina Elena, Building F last floor.
 
-**Topic**: How to Write Successfully a Scientific Paper.
+**Topic**: How to Write a Successful Scientific Paper (temporary title).
 
 **Speaker**: Prof. [Roberto Navigli](wwwusers.di.uniroma1.it/~navigli)
    
