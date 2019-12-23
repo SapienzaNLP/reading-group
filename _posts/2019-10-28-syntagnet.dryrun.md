@@ -9,7 +9,7 @@ title: SyntagNet Dry-Run
 
 **Topic**: Dry-Run of SyntagNet poster for EMNLP 2019.
 
-**Speaker**: Marco Maru.
+**Speaker**: [Marco Maru](https://twitter.com/MarcoMaru3).
 ### Abstract
   
 #### SyntagNet: Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations (Marco Maru, Federico Scozzafava, Federico Martelli and Roberto Navigli)
