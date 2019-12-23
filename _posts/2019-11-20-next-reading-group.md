@@ -7,7 +7,7 @@ title: Next Reading Group
 
 **Where**: Regina Elena, Building F last floor.
 
-**Topic**: Dry-Run of CSI and SensEmBERT presentations for AAAI 2020..
+**Topic**: Dry-Run of CSI and SensEmBERT presentations for AAAI 2020.
 
 **Speakers**: [Caterina Lacerra](https://twitter.com/CaterinaLacerra), [Michele Bevilacqua](https://twitter.com/MicheleBevila20), [Bianca Scarlini](https://twitter.com/biancascarlini)
 and [Tommaso Pasini](wwwusers.di.uniroma1.it/~pasini)   
