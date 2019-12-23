@@ -11,7 +11,7 @@ title: Next Reading Group
 
 **Speakers**: [Caterina Lacerra](https://twitter.com/CaterinaLacerra), [Michele Bevilacqua](https://twitter.com/MicheleBevila20), [Bianca Scarlini](https://twitter.com/biancascarlini)
 and [Tommaso Pasini](wwwusers.di.uniroma1.it/~pasini)   
-### Abstract
+### Abstracts
 ####  CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation.
 Word Sense Disambiguation (WSD) is the task of associating a word in context with one of its meanings. 
 While many works in the past have focused on raising the state of the art, none has even come close to 
