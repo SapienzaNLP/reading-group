@@ -9,7 +9,7 @@ title: Next Reading Group
 
 **Topic**: Dry-Run of CSI and SensEmBERT presentations for AAAI 2020.
 
-**Speakers**: [Caterina Lacerra](https://twitter.com/CaterinaLacerra), [Michele Bevilacqua](https://twitter.com/MicheleBevila20), [Bianca Scarlini](https://twitter.com/biancascarlini)
+**Speakers**: [Caterina Lacerra](https://twitter.com/@CaterinaLac), [Michele Bevilacqua](https://twitter.com/MicheleBevila20), [Bianca Scarlini](https://twitter.com/biancascarlini)
 and [Tommaso Pasini](wwwusers.di.uniroma1.it/~pasini)   
 ### Abstracts
 ####  CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation.
