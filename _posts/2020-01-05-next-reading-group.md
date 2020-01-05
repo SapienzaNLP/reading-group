@@ -3,7 +3,7 @@ layout: post
 title: Next Reading Group
 ---
 
-**When**:  Wedensday 15 of January 2020 at 10:00.
+**When**:  Wednesday 15 of January 2020 at 10:00.
 
 **Where**: Regina Elena, Building F last floor.
 
