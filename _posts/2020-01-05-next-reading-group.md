@@ -7,11 +7,11 @@ title: Next Reading Group
 
 **Where**: Regina Elena, Building F last floor.
 
-**Topic**: Dry-Run of CSI and SensEmBERT presentations for AAAI 2020.
+**Topic**: Dry-Run of CSI poster for AAAI 2020.
 
-**Speakers**: [Caterina Lacerra](https://twitter.com/@CaterinaLac), [Michele Bevilacqua](https://twitter.com/MicheleBevila20), [Bianca Scarlini](https://twitter.com/biancascarlini)
-and [Tommaso Pasini](wwwusers.di.uniroma1.it/~pasini)   
-### Abstracts
+**Speakers**: [Caterina Lacerra](https://twitter.com/@CaterinaLac), 
+[Michele Bevilacqua](https://twitter.com/MicheleBevila20)
+### Abstract
 ####  CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation.
 Word Sense Disambiguation (WSD) is the task of associating a word in context with one of its meanings. 
 While many works in the past have focused on raising the state of the art, none has even come close to 
@@ -19,11 +19,5 @@ achieving an F-score in the 80% ballpark when using WordNet as its sense invento
 We contend that one of the main reasons for this failure is the excessively fine granularity of this 
 inventory, resulting in senses that are hard to differentiate between, even for an experienced 
 human annotator. In this paper we cope with this long-standing problem by introducing Coarse Sense Inventory (CSI), obtained by linking WordNet concepts to a new set of 45 labels. The results show that the coarse granularity of CSI leads a WSD model to achieve 85.9% F1, while maintaining a high expressive power. Our set of labels also exhibits ease of use in tagging and a descriptiveness that other coarse inventories lack, as demonstrated in two annotation tasks which we performed. Moreover, a few-shot evaluation proves that the class-based nature of CSI allows the model to generalise over unseen or under-represented words.
-
-#### SensEmBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation.
-Contextual representations of words derived by neural language models have proven to effectively encode the subtle distinctions that might occur between different meanings of
-the same word. However, these representations are not tied to a semantic network, hence they leave the word meanings implicit and thereby neglect the information that can be derived
-from the knowledge base itself. In this paper, we propose SensEmBERT, a knowledge-based approach that brings together the expressive power of language modelling and the vast amount of knowledge contained in a semantic network to produce high-quality latent semantic representations of word meanings in multiple languages. Our vectors lie in a space comparable with that of contextualized word embeddings, thus allowing a word occurrence to be easily linked to its meaning by applying a simple nearest neighbour approach. We show that, whilst not relying on manual semantic annotations, SENSEMBERT is able to either achieve or surpass
-state-of-the-art results attained by most of the supervised neural approaches on the English Word Sense Disambiguation task. When scaling to other languages, our representations prove to be equally effective as their English counterpart and outperform the existing state of the art on all the Word Sense Disambiguation multilingual datasets. The embeddings are released in five different languages at http://sensembert.org.
 
 See you there!
