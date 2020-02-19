@@ -11,11 +11,14 @@ title: Next Reading Group
 
 **Speakers**: [Rexhina Blloshmi](https://twitter.com/rexhina_b)
 ### Content
-- Meaning Representations
-    - [AMR](https://amr.isi.edu/)
-    - [UCCA](https://www.aclweb.org/anthology/P13-1023.pdf) 
-- Introduction to models for Semantic Parsing
-- ...
+1) Cross-Lingual Semantic Parsing Studies
+     - [AMR](https://amr.isi.edu/)
+     - [UCCA](https://www.aclweb.org/anthology/P13-1023.pdf)
+2) Algorithms and Applications
+3) SOTA Semantic Parsers  
+    - Modeling Source Syntax and Semantics for Neural AMR          Parsing
+    - HLT@SUDA at SemEval-2019 Task 1: UCCA Graph Parsing as Constituent Tree Parsing
+    - Broad-Coverage Semantic Parsing as Transduction
 
 Slides will be made available soon!
 

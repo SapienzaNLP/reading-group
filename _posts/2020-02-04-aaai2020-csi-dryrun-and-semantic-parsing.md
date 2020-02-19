@@ -20,10 +20,12 @@ inventory, resulting in senses that are hard to differentiate between, even for 
 human annotator. In this paper we cope with this long-standing problem by introducing Coarse Sense Inventory (CSI), obtained by linking WordNet concepts to a new set of 45 labels. The results show that the coarse granularity of CSI leads a WSD model to achieve 85.9% F1, while maintaining a high expressive power. Our set of labels also exhibits ease of use in tagging and a descriptiveness that other coarse inventories lack, as demonstrated in two annotation tasks which we performed. Moreover, a few-shot evaluation proves that the class-based nature of CSI allows the model to generalise over unseen or under-represented words.
 
 #### Introduction to Semantic Parsing
-- Meaning Representations
+1) Semantic Parsing and other NLP tasks
+2) Meaning Representation
+3) Graph Formalism 
     - [AMR](https://amr.isi.edu/)
-    - [UCCA](https://www.aclweb.org/anthology/P13-1023.pdf) 
-- Introduction to models for Semantic Parsing
+    - [UCCA](https://www.aclweb.org/anthology/P13-1023.pdf)
+    
 
 Slides will be made available soon!
 
