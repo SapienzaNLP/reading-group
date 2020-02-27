@@ -25,4 +25,4 @@ leads to improvements on both the in-domain and out-of-domain test sets of CoNLL
  
  
 ## Downloads
-[Slides](material/reading_group_2_verbatlas.pdf)
+[Slides](https://sapienzanlp.github.io/reading-group/material/reading_group_2_verbatlas.pdf)
