@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Reading Group
+title: Dry-Run of CSI poster for AAAI 2020 and Introduction to Semantic Parsing (I).
 ---
 
 **When**:  Wednesday 15 of January 2020 at 10:00.

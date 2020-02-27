@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Reading Group
+title: How to Write a Successful Scientific Paper.
 ---
 
 **When**:  Wedensday 20 of November 2019 at 9:30.
