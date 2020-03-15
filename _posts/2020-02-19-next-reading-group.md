@@ -3,9 +3,9 @@ layout: post
 title: Next Reading Group
 ---
 
-**When**:  Wednesday 4th of March 2020 at 17:00.
+**When**:  Wednesday 18th of March 2020 at 09:00.
 
-**Where**: Regina Elena, Building F last floor.
+**Where**: Hangout, check the address in the Google Calendar Event.
 
 **Topic**: Introduction to Semantic Parsing (II).
 
