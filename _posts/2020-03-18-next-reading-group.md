@@ -26,4 +26,4 @@ Approaches to Semantic Parsing:
 
 ### Material
 - [Slides will be made available soon!]
-- [Live Recording](https://drive.google.com/file/d/1lHxw11QeeZtZmRLNPwRc1yatD_Cy2Xam/view)
+- [Live Recording](https://drive.google.com/file/d/1lHxw11QeeZtZmRLNPwRc1yatD_Cy2Xam/view?usp=sharing)
