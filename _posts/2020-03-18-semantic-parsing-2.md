@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Reading Group
+title: Semantic Parsing II 
 ---
 
 **When**:  Wednesday 18th of March 2020 at 09:00.
