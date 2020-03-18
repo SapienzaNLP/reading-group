@@ -14,4 +14,4 @@ title: RG#1
 - [AMR Dependency Parsing with a Typed Semantic Algebra.](https://www.aclweb.org/anthology/P18-1170/) Jonas Groschwitz, Matthias Lindemann, Meaghan Fowlie, Mark Johnson, Alexander Koller. ACL 2018.
 
 ## Downloads
-[Slides](https://sapienzanlp.github.io/reading-group/material/reading_group_1@19-20.pdf)
+[Slides](https://sapienzanlp.github.io/reading-group/material/2019-10-10-acl-emnlp-2019-showcase/reading_group_1@19-20.pdf)

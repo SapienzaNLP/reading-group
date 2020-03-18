@@ -24,6 +24,6 @@ Approaches to Semantic Parsing:
 - Translation-Based
 - Composition-Based
 
+### Material
 Slides will be made available soon!
-
-See you there!
+[Live Recording](https://drive.google.com/file/d/1lHxw11QeeZtZmRLNPwRc1yatD_Cy2Xam/view)
