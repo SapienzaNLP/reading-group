@@ -11,7 +11,11 @@ title: Pretraining a Conditioned Generation Architecture: Making BERT, BART, and
 
 **Speakers**: [Michele Bevilacqua](https://twitter.com/MicheleBevila20)
 ### Abstract
-The recent success of models like ELMo, BERT, XLNet and the likes has shown that pretraining through self-supervision and transfer learning are very effective techniques for addressing discriminative NLP tasks. However, this was not the case for many tasks involving generation, and the use of pretrained architectures brought but modest improvements. Two recent and concurrent approaches, BART and T5, aim to fill the gap by evaluating sequence-to-sequence pretraining tasks, in which the model has to output a sequence. These models can be used for both generative and discriminative downstream applications.
+The recent success of models like ELMo, BERT, XLNet and the likes has shown that pretraining through self-supervision and transfer 
+learning are very effective techniques for addressing discriminative NLP tasks. However, this was not the case for many tasks 
+involving generation, and the use of pretrained architectures brought but modest improvements. 
+Two recent and concurrent approaches, BART and T5, aim to fill the gap by evaluating sequence-to-sequence pretraining tasks, 
+in which the model has to output a sequence. These models can be used for both generative and discriminative downstream applications.
 
 
 ### Reccommended Readings:
@@ -31,3 +35,8 @@ Approaches to Semantic Parsing:
     - T5
     - BART
     - mBART
+    
+### Questioners:
+- Edoardo Barba
+- Luigi Procopio
+- Niccolò Campolungo
