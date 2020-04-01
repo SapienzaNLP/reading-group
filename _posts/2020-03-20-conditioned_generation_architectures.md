@@ -7,7 +7,7 @@ title: Pretraining a Conditioned Generation Architecture: Making BERT, BART, and
 
 **Where**: Hangout, check the address in the Google Calendar Event.
 
-**Topic**: .
+**Topic**: Pretraining a Conditioned Generation Architecture: Making BERT, BART, and Other Monsters Talk.
 
 **Speakers**: [Michele Bevilacqua](https://twitter.com/MicheleBevila20)
 ### Abstract
