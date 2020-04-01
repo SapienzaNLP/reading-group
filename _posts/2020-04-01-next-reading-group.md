@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pretraining a Conditioned Generation Architecture: Making BERT, BART, and Other Monsters Talk
+title: Abuse Detection
 ---
 
 **When**:  Wednesday 8th of April 2020 at 09:00.
@@ -9,7 +9,7 @@ title: Pretraining a Conditioned Generation Architecture: Making BERT, BART, and
 
 **Topic**: TBD
 
-**Speakers**: [Agostina Calabrese](https://twitter.com/MicheleBevila20)
+**Speakers**: [Agostina Calabrese](https://twitter.com/agostina_cal)
 ### Abstract
 TBD.
 
