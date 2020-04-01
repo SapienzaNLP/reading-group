@@ -18,6 +18,10 @@ Two recent and concurrent approaches, BART and T5, aim to fill the gap by evalua
 in which the model has to output a sequence. These models can be used for both generative and discriminative downstream applications.
 
 
+### Material
+- [Slides](https://sapienzanlp.github.io/reading-group/material/2020-03-20-conditioned_generation_architectures/RG_2020___Pretrained_Generation.pdf)
+- [Presentation](https://drive.google.com/file/d/1hJ9ordYMR8HcTqma4Sh9VlawzVrMjxBy/view?usp=sharing)
+
 ### Reccommended Readings:
 Among all the reference papers for the models, the two most recent approaches are the followings:
 - [BART: Denoising Sequence-to-Sequence Pre-training for NaturalLanguage Generation, Translation, and Comprehension. Lewis et al. 2019](https://arxiv.org/pdf/1910.13461.pdf)
@@ -40,3 +44,4 @@ Approaches to Semantic Parsing:
 - Edoardo Barba
 - Luigi Procopio
 - Niccolò Campolungo
+
