@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pretraining a Conditioned Generation Architecture: Making BERT, BART, and Other Monsters Talk.
+title: Making BERT, BART, and Other Monsters Talk.
 ---
 
 **When**:  Wednesday 25th of March 2020 at 09:00.
