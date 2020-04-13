@@ -3,7 +3,7 @@ layout: post
 title: Hate and Abuse Detection - An Overview
 ---
 
-**When**:  Wednesday 8th of April 2020 at 09:00.
+**When**:  Wednesday 15th of April 2020 at 09:00.
 
 **Where**: Meet, check the address in the Google Calendar Event.
 
