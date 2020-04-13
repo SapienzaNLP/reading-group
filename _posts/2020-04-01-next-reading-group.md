@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hate and Abuse Detection: An Overview
+title: Hate and Abuse Detection - An Overview
 ---
 
 **When**:  Wednesday 8th of April 2020 at 09:00.
