@@ -24,7 +24,7 @@ Machine Translation has evolved a lot throughout the years, especially when cons
 
 
 ### Material
-- [Slide](https://sapienzanlp.github.io/reading-group/material/material/2020-05-06-unsupervised-nmt/Unsupervised_NMT___SapienzaNLP_RG.pdf)
+- [Slide](https://sapienzanlp.github.io/reading-group/material/2020-05-06-unsupervised-nmt/Unsupervised_NMT___SapienzaNLP_RG.pdf)
 - [Presentation](https://drive.google.com/file/d/11UhyR_o77s1I00F4ZXnjyG3fYgp7-5y7/view?usp=sharing)
 
 
