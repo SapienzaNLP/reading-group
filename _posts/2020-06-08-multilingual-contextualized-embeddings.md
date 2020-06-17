@@ -19,6 +19,11 @@ Transfer Learning has been one of the leading actors in the recent developments 
 - [Emerging Cross-lingual Structure in Pretrained Language Models](https://arxiv.org/pdf/1911.01464.pdf)
 - [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/pdf/1910.11856.pdf)
 
+### Material
+- [Slide](material/2020-06-08-multilingual-contextualized-embeddings/Multilinguality in Transformers Architectures.pdf)
+- [Presentation](https://drive.google.com/file/d/1NaAa-N6tisCyjxoO5pr6iTbfNhrQVrtX/view?usp=sharing)
+
+
 ### Questioners:
 - Agostina 
 - Federico (Scozzafava)
