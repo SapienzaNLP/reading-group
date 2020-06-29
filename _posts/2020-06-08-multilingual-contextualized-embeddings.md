@@ -8,7 +8,7 @@ title: Multilinguality in Transformers Architectures.
 
 **Topic**: Overview of cross lingual pretrained language models and their hidden structures.
 
-**Speakers**: 
+**Speaker**: 
 [Edoardo Barba](https://twitter.com/sampj94) 
 
 

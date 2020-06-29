@@ -9,7 +9,7 @@ title: Semantic Parsing II
 
 **Topic**: Introduction to Semantic Parsing (II).
 
-**Speakers**: [Rexhina Blloshmi](https://twitter.com/rexhina_b)
+**Speaker**: [Rexhina Blloshmi](https://twitter.com/rexhina_b)
 
 ### Reccommended Readings:
 - [AMR Parsing as Sequence-to-Graph Transduction, Zhang et al., ACL 2019](https://www.aclweb.org/anthology/P19-1009/)

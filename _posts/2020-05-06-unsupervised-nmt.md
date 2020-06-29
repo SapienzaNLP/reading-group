@@ -10,7 +10,7 @@ title: Unsupervised Neural Machine Translation.
 **Topic**: Overview of Neural Machine Translation Approaches with a Focus
 on Unsupervised Models.
 
-**Speakers**: [Niccolò Campolungo](https://twitter.com/Valahaar)
+**Speaker**: [Niccolò Campolungo](https://twitter.com/Valahaar)
 ### Abstract
 Machine Translation has evolved a lot throughout the years, especially when considering how neural-based systems drastically improved translation performances. This presentation will guide you through the latest advancements in unsupervised techniques applied to NMT, while providing an overview of both advanced techniques and common architectures. Finally, we will be addressing some of the most pressing concerns regarding text generation and, most importantly, its evaluation.
 

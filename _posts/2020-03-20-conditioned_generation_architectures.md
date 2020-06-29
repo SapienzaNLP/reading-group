@@ -9,7 +9,7 @@ title: Making BERT, BART, and Other Monsters Talk.
 
 **Topic**: Pretraining a Conditioned Generation Architecture: Making BERT, BART, and Other Monsters Talk.
 
-**Speakers**: [Michele Bevilacqua](https://twitter.com/MicheleBevila20)
+**Speaker**: [Michele Bevilacqua](https://twitter.com/MicheleBevila20)
 ### Abstract
 The recent success of models like ELMo, BERT, XLNet and the likes has shown that pretraining through self-supervision and transfer 
 learning are very effective techniques for addressing discriminative NLP tasks. However, this was not the case for many tasks 

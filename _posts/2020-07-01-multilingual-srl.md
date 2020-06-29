@@ -8,7 +8,7 @@ title: Span- and Dependency-based Multilingual and Cross-lingual Semantic Role L
 
 **Topic**: Discussion on the multilingual SRL task proposed for SemEval2021.
 
-**Speakers**: 
+**Speaker**: 
 Andrea Di Fabio 
 
 
