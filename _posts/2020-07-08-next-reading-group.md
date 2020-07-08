@@ -23,3 +23,8 @@ In this brief talk, aided by recent position papers, we (i) aim to offer a birdâ
 - [Language (Re)modelling: Towards Embodied Language Understanding](https://arxiv.org/pdf/2005.00311v1.pdf), Tamari et al., 2020.
 - [(Re) construing Meaning in NLP](https://www.aclweb.org/anthology/2020.acl-main.462/), Trott et al., 2020.
 - [The Unstoppable Rise of Computational Linguistics in Deep Learning](https://www.aclweb.org/anthology/2020.acl-main.561/), Henderson, 2020.
+
+### Questioners:
+- Edoardo Barba
+- Michele Bevilacqua
+- Rexhina Blloshmi
