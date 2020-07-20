@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            SapienzaNLP
 subtitle:         Reading Group
-tagline:          'Activity Blog of LCL group at La Sapienza University of Rome'
+tagline:          'Activity Blog of SapienzaNLP group at La Sapienza University of Rome'
 description:      The group is focused on NLP and is specifically interested in Semantic Parsing, Word Sense Disambiguation and related topics.
-  You can find out more about SepienzaNLP at <a href="http://lcl.uniroma1.it">sapienzanlp.uniroma1.it</a> or follow us on <a href="https://twitter.com/SapienzaNLP">twitter</a>.
+  You can find out more about SepienzaNLP at <a href="http://lcl.uniroma1.it">sapienzanlp.uniroma1.it</a>></a>.
 url: https://sapienzanlp.github.io
 baseurl: /
 
