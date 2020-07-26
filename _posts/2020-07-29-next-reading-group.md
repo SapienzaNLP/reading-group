@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Meaning, Understanding, and Other Mythical Creatures in NLP
+title: Top Pics from ACL on Knowledge-enhanced neural networks.
 ---
 **When**:  Wednesday 29th of July, 9:00 AM
 
