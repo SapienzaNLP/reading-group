@@ -2,7 +2,7 @@
 layout: post
 title: On Meaning, Understanding, and Other Mythical Creatures in NLP
 ---
-**When**:  Wednesday 15st of July, 9:00 AM
+**When**:  Wednesday 15th of July, 9:00 AM
 
 **Where**: Meet, check the address in the Google Calendar Event.
 
