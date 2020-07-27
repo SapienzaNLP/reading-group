@@ -17,7 +17,8 @@ title: Top Pics from ACL on Knowledge-enhanced neural networks.
 - [Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing](https://www.aclweb.org/anthology/2020.acl-main.608/) - Ruisheng Cao et al.
 - [Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness](https://www.aclweb.org/anthology/2020.acl-main.515/) - Wu et al.
 - [Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://transacl.org/ojs/index.php/tacl/article/view/1886) - Guan et al.
+
 ### Questioners:
-- Agostina Calabrese
+- Tommaso Pasini
 - Niccolò Campolungo
 - Simone Conia
