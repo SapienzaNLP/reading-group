@@ -14,7 +14,6 @@ title: Top Pics from ACL on Knowledge-enhanced neural networks.
 
 ### Recommended Readings
 - [Pre-training is (Almost) All You Need: An Application to Commonsense Reasoning](https://www.aclweb.org/anthology/2020.acl-main.357.pdf) - Tamborrino et al.
-- [Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing](https://www.aclweb.org/anthology/2020.acl-main.608/) - Ruisheng Cao et al.
 - [Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness](https://www.aclweb.org/anthology/2020.acl-main.515/) - Wu et al.
 - [Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://transacl.org/ojs/index.php/tacl/article/view/1886) - Guan et al.
 
