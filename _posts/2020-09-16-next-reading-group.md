@@ -1,22 +1,29 @@
 ---
 layout: post
-title: Recent advancements in BioNLP
+title: A Brief Talk on the Importance of Natural Language Processing in Biomedicine.
 ---
 **When**:  Wednesday 16th of September, 9:00 AM
 
 **Where**: Meet, check the address in the Google Calendar Event.
 
-**Topic**: BioNLP.
+**Topic**: A Brief Talk on the Importance of Natural Language Processing in Biomedicine.
 
 **Speaker**: 
 [Simone Conia](https://twitter.com/ConiaSimone)
 
 ### Abstract
-
-
-### Material
+Natural Language Processing (NLP) has always played an important role in Biology and 
+Medicine, especially in extracting relevant information from the ever-growing literature.
+While high-quality biomedical information extraction is critical for the times we live 
+in, recently proposed NLP techniques have enabled much more than that. This brief talk 
+will provide an overview on the application of recent NLP techniques to a variety of 
+biomedical tasks, from traditional text mining and analysis, to clinical and basic 
+research.
 
 ### Recommended Readings
+- [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506)
+- [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
+- [Evaluating Protein Transfer Learning with TAPE](https://arxiv.org/abs/1906.08230)
 
 ### Questioners:
 - Caterina Lacerra
