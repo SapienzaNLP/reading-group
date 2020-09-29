@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Brief Talk on the Importance of Natural Language Processing in Biomedicine.
+title: Encoder decoder, a.k.a. where copying isn’t cheating (even on the test set)
 ---
 **When**:  Wednesday 30th of September, 9:00 AM
 
@@ -30,6 +30,6 @@ implementation and presenting two recent works that try to tackle their shortcom
 - [Copy that! Editing Sequences by Copying Spans](https://arxiv.org/pdf/2006.04771.pdf)
 
 ### Questioners:
-- Caterina Lacerra
-- Federico Martelli
-- Marco Maru
+- Bianca Scarlini
+- Rocco Tripodi 
+- Edoardo Barba
