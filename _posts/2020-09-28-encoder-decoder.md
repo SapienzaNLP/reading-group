@@ -23,6 +23,10 @@ In this talk, we are going to give an overview of this framework, focusing on ar
 implementation and presenting two recent works that try to tackle their shortcomings.
 
 
+### Material
+- [Slides](https://sapienzanlp.github.io/reading-group/material/material/2020-09-28-encoder-decoder/Copying_Mechanism.pdf)
+- [Presentation](https://drive.google.com/file/d/1Vm4laHsMgdW0h_GyO2w2DWNNz76C_Ooi/view?usp=sharing)
+
 ### Recommended Readings
 - [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/pdf/1603.06393.pdf)
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)
