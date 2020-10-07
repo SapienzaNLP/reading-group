@@ -18,5 +18,5 @@ What we propose in this SemEval tasks are some major improvements to these class
 In doing so, they will use VerbAtlas, a novel multilingual verbal resource with explicit language-independent frame and role labels, whose labels have been used to annotate the whole dataset.
 
 ### Material
-- [Slide](material/2020-07-01-multilingual-srl/multilingual_srl_semeval2021.pdf)
+- [Slide](https://sapienzanlp.github.io/reading-group/material/2020-07-01-multilingual-srl/multilingual_srl_semeval2021.pdf)
 - [Presentation](https://drive.google.com/file/d/1hHYgJhhYIxfrAfI2dGd1li3AmcZOQTci/view?usp=sharing)
