@@ -9,8 +9,8 @@ title: Multilingual and Cross-lingual Word-in-Context Disambiguation.
 **Topic**: Presentations rehearsal, SemEval 2020.
 
 **Speaker**: 
-Federico Martelli
-Najla Kalach
+Federico Martelli\
+Najla Kalach\
 Gabriele Tola
 
 ### Material
