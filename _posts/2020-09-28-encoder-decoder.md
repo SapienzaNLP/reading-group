@@ -24,7 +24,7 @@ implementation and presenting two recent works that try to tackle their shortcom
 
 
 ### Material
-- [Slides](material/2020-09-28-encoder-decoder/Copying_Mechanism.pdf)
+- [Slides](https://sapienzanlp.github.io/reading-group/material/2020-09-28-encoder-decoder/Copying_Mechanism.pdf)
 - [Presentation](https://drive.google.com/file/d/1Vm4laHsMgdW0h_GyO2w2DWNNz76C_Ooi/view?usp=sharing)
 
 ### Recommended Readings
