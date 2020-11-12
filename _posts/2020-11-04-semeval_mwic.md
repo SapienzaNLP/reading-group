@@ -14,7 +14,7 @@ title: Multilingual and Cross-lingual Word-in-Context Disambiguation.
 - Gabriele Tola
 
 ### Material
-- [Slides]()
+- [Slides](https://sapienzanlp.github.io/reading-group/material/2020-11-04-semeval_mwic/Multilingual WiC Reading group .pdf)
 
 
 ### Abstract
