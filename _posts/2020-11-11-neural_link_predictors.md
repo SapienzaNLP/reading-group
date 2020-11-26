@@ -3,7 +3,7 @@ layout: post
 title: Explainable, Data-Efficient, Verifiable
        Representation (& Deep) Learning
 ---
-**When**:  Wednesday 4th of November, 09:00 AM
+**When**:  Wednesday 11th of November, 09:00 AM
 
 **Where**: Meet, check the address in the Google Calendar Event.
 
