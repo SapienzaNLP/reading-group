@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Fixed Encoder Self-Attention Patterns in Transformer-Based Machine Translation
+title: When Language Meets Vision: A Multimodal Perspective on the NLP World
 ---
 **When**:  Wednesday 27th of January, 09:00 AM
 
 **Where**: Meet, check the address in the Google Calendar Event.
 
-**Topic**: When Language Meets Vision: A Multimodal Perspective on the NLP World
+**Topic**: Vision & Language
 
            
 **Speaker**: 
