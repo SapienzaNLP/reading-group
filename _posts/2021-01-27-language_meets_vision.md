@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When Language Meets Vision: A Multimodal Perspective on the NLP World
+title: When Language Meets Vision
 ---
 **When**:  Wednesday 27th of January, 09:00 AM
 
