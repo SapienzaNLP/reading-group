@@ -4,8 +4,6 @@ title: When Language Meets Vision
 ---
 **When**:  Wednesday 27th of January, 09:00 AM
 
-**Where**: Meet, check the address in the Google Calendar Event.
-
 **Topic**: Vision & Language
 
            
