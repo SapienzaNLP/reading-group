@@ -4,6 +4,7 @@ title: An Overview of Language Models for Knowledge Retrieval - with particular 
 
 ---
 **When**:  Wednesday 10th of February, 09:00 AM
+**Where**: [meet.google.com/amp-pcsf-rde](meet.google.com/amp-pcsf-rde)
 **Topic**: Language Models for Knowledge Retrieval
 
            
