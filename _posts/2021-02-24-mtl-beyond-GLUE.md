@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multi-task learning beyond GLUE: How emotions or metaphors can help in socially relevant tasks
+title: Multi-task learning beyond GLUE - How emotions or metaphors can help in socially relevant tasks
 
 ---
 **When**:  Wednesday, 24th of February, 09:00 AM
