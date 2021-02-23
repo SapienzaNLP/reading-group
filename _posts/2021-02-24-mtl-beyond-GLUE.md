@@ -5,7 +5,7 @@ title: Multi-task learning beyond GLUE - How emotions or metaphors can help in s
 ---
 **When**:  Wednesday, 24th of February, 09:00 AM
 
-**Where**: [mhttps://meet.google.com/uqv-syfu-iyf](https://meet.google.com/uqv-syfu-iyf)
+**Where**: [https://meet.google.com/uqv-syfu-iyf](https://meet.google.com/uqv-syfu-iyf)
 
 **Topic**: Multi-task learning beyond GLUE
 
