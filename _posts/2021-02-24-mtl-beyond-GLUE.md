@@ -28,9 +28,6 @@ Multi-task learning is often used to improve generality and performance on close
 
 - [Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions](https://arxiv.org/abs/2101.11956) Huguet Cabot et al., EACL 2021.
 
-- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401.pdf) - Lewis, P., NeurIPS 2020
-
-
 ### Questioners:
 - Carlos Martinez
 - Edoardo Barba
