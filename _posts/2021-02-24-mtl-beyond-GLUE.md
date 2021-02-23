@@ -18,14 +18,8 @@ Multi-task learning is often used to improve generality and performance on close
 
 ### Recommended Readings
 - [Multitask Learning: A Knowledge-Based Source of Inductive Bias](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6CD27E91C93F1F87A44542FA3B4700B0?doi=10.1.1.57.3196&rep=rep1&type=pdf) Caruana, Richard A. ICML 1993
-
-
 - [Modelling the interplay of metaphor and emotion through multitask learning](https://www.aclweb.org/anthology/D19-1227/) Dankers et al., EMNLP 2019
-
-
 - [The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse](https://www.aclweb.org/anthology/2020.findings-emnlp.402/) Huguet Cabot et al., Findings of EMNLP 2020.
-
-
 - [Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions](https://arxiv.org/abs/2101.11956) Huguet Cabot et al., EACL 2021.
 
 ### Questioners:
