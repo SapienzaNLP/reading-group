@@ -26,3 +26,8 @@ Multi-task learning is often used to improve generality and performance on close
 - Carlos Martinez
 - Edoardo Barba
 - Michele Bevilacqua
+
+## Material
+- [Slides](https://sapienzanlp.github.io/reading-group/material/2021-02-24-mtl-beyond-GLUE/Reading Group - Sapienza.pdf)
+- [Presentation](https://drive.google.com/file/d/15nqPxe214PgReWfDTAyrOl5EeuP-m9kP/view?usp=sharing)
+
