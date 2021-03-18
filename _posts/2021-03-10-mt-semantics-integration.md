@@ -27,3 +27,6 @@ Machine Translation (MT) is one of the most challenging tasks in NLP, and with t
 - Rexhina Blloshmi
 - Niccolò Campolungo
 
+## Material
+- [Slides](https://sapienzanlp.github.io/reading-group/material/2021-03-10-mt-semantics-integration/Semantic in Machine Translation.pdf)
+- [Presentation](https://drive.google.com/file/d/1XVtSx7c2uvFuRUB57HSkIbvZtLnyT1kO/view?usp=sharing)
