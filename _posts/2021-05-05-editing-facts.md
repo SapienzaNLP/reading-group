@@ -3,7 +3,7 @@ layout: post
 title: Editing Factual Knowledge in Language Models
 
 ---
-**When**:  Wednesday, 5th of May, 09:00 AM
+**When**:  TOBEDEFINED
 
 **Where**: [https://meet.google.com/uqv-syfu-iyf](https://meet.google.com/uqv-syfu-iyf)
 
