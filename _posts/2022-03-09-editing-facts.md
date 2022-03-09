@@ -20,4 +20,4 @@ We present KnowledgeEditor, a method that can be used to edit this knowledge and
 
 ## Material
 - [Slides](https://sapienzanlp.github.io/reading-group/material/2022-03-09-editing-facts/Reading Group - Editing LM.pdf)
-- [Presentation](https://drive.google.com/file/d/1XVtSx7c2uvFuRUB57HSkIbvZtLnyT1kO/view?usp=sharing)
+- [Presentation](https://drive.google.com/file/d/1p8OvBSadKNRPsE0JpIr5WBVpn8qcipTb/view?usp=sharing)
